@@ -1,4 +1,4 @@
-# ICM-2021
+# COMAP 2021 MCM/ICM
 Hello and welcome to our submission for COMAP's 2021 MCM/ICM Problem D: The Influence of Music.
 
 
